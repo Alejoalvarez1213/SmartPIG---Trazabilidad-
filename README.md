@@ -29,3 +29,10 @@ En este módulo Sistema semiautomático computarizado del ciclo de vida reproduc
 #### Diagrama de casos de uso
 
 <img width="576" alt="DiagramaCasodeUsoTrazabilidad" src="https://user-images.githubusercontent.com/42451289/57561823-c7053d80-7353-11e9-8cc0-1e0ea2868ff9.png">
+
+### Observaciones Entregable Uno.
+- Más orden al momento de presentar la idea.
+- Dominio del tiempo, aunque son dos módulos es ideal saber separar la presentación del proyecto.
+- Respecto al tablero, recuerden que debíamos tener las actividades correspondientes a realizar en los aspectos de FrontEnd
+
+#### Nota: 3,9
